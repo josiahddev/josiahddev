@@ -4,7 +4,7 @@
 
 ### Hi, I'm Josiah 👋
 
-I'm an IT support & ICT professional in Kaduna, Nigeria. Right now I'm the ICT Manager at a chartered accountancy firm, looking after the machines, the network, the accounts and the backups. I like finding out *why* something broke, and I'm deliberately working my way into **cybersecurity**.
+I'm an IT support & ICT professional in Kaduna, Nigeria. I look after machines, networks, user accounts and backups, I like finding out *why* something broke, and I'm deliberately working my way into **cybersecurity**.
 
 **→ [See my portfolio](https://josiah-makinde-portfolio.vercel.app)**
 
