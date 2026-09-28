@@ -35,7 +35,7 @@ I'm an IT support & ICT professional in Kaduna, Nigeria. Right now I'm the ICT M
 ![Nmap](https://img.shields.io/badge/Nmap-151715?style=flat-square&logoColor=e5ac5c)
 ![Git](https://img.shields.io/badge/Git-151715?style=flat-square&logo=git&logoColor=e5ac5c)
 ![Jira](https://img.shields.io/badge/Jira-151715?style=flat-square&logo=jira&logoColor=e5ac5c)
-![Figma](https://img.shields.io/badge/Figma-151715?style=flat-square&logo=figma&logoColor=e5ac5c)
+![Figma](https://img.shields.io/badge/Figma-151715?logo=figma&logoColor=e5ac5c&style=flat-square)
 
 ### 📫 Find me
 
