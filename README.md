@@ -1,10 +1,10 @@
 <a href="https://josiah-makinde-portfolio.vercel.app">
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal intro: Josiah Makinde, IT support and ICT in Kaduna, Nigeria. Focus on Windows, networking, PowerShell and Python, and security. Status: learning and building." />
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal intro: Josiah Makinde, IT support and ICT. Focus on Windows, networking, PowerShell and Python, and security. Status: learning and building." />
 </a>
 
 ### Hi, I'm Josiah 👋
 
-I'm an IT support & ICT professional in Kaduna, Nigeria. I look after machines, networks, user accounts and backups, I like finding out *why* something broke, and I'm deliberately working my way into **cybersecurity**.
+I'm an IT support & ICT professional. I look after machines, networks, user accounts and backups, I like finding out *why* something broke, and I'm deliberately working my way into **cybersecurity**.
 
 **→ [See my portfolio](https://josiah-makinde-portfolio.vercel.app)**
 
